@@ -10,6 +10,7 @@ You may need to reload your YT page after installing the extension!
 2)download and move the YTNP2.exe to your desired folder, run it, it will create the 2 files:
 video_title.txt and video_creator.txt in the same folder as the .exe! 
 You now can open them in OBS as text source or in any desired program!
+
 3)The program has to be running for the .txt s to update. 
   
   Release 0.4.3: Known Issues: when new video Playing: data is sendt twice, does not really affect anything
