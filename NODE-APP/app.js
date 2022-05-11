@@ -4,7 +4,7 @@
 //
 //      https://github.com/T1G3R-DEV/YT2txt
 //
-//  
+//      version 0.4.1
 //
 
 
@@ -12,6 +12,11 @@
 const http = require('http');   //lib for webserver
 const url = require('url');     //lib for parsing GET requests
 const fs = require('fs');       //lib for writing to the files
+
+
+console.log("\t\tYTNP2txt by Daniel M. (c)2022\n\nVisit my Github for more info/setup info: \n\thttps://github.com/T1G3R-DEV/YT2txt");
+
+
 
 const requestListener = function (req, res) {
     const queryObject = url.parse(req.url, true).query;
