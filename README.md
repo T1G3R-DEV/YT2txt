@@ -2,7 +2,7 @@
 Gets current playing yt video from browser extension and writes title and creator to a .txt file
 
 Usage:
-0) Download frome Releases here: https://github.com/T1G3R-DEV/YT2txt/releases/tag/main
+0) Download frome Releases here: https://github.com/T1G3R-DEV/YT2txt/releases/
 
 1) Unpack the extension into an folder, go to your chrome extensions page, enable develloper mode -> load from folder
 (find more help: google: How to install Chrome extensions manually)
