@@ -1,6 +1,9 @@
 # YT2txt
 Gets current playing yt video from browser extension and writes title and creator to a .txt file
 
+Video Tooturial on installation: 
+https://www.youtube.com/watch?v=kx5NOK8lrq4
+
 Usage:
 
 0) Download frome Releases here: https://github.com/T1G3R-DEV/YT2txt/releases/tag/main
